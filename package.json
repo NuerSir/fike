@@ -1,0 +1,23 @@
+{
+    "name": "fike",
+    "version": "0.0.1",
+    "description": "这是一个前端构建集成解决方案.",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NuerSir/fike.git"
+    },
+    "keywords": [
+        "fike",
+        "parcel",
+        "parceljs",
+        "parcel-bundler"
+    ],
+    "author": "nuer",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NuerSir/fike/issues"
+    },
+    "homepage": "https://github.com/NuerSir/fike#readme"
+}
